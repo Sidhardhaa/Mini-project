@@ -1,0 +1,59 @@
+<html>
+<head>
+<meta charset=utf-8>
+<title>Home</title>
+<style>
+h1   {color: white;}
+</style>
+<script type="text/javascript" src="selecting.js" >
+</script>
+</head>
+<body background="background1.jpg" width="200px" height="100px">
+<h1 align=center>AGRICULTURE FORM</h1>
+<form action=1234.php method=Post name=myForm onSubmit="return validate()">
+<table cellspacing="20" cellpadding=5 align=center bgcolor="#FFFFFF">
+<tr>
+<td>
+<p>SELECT LANGUAGE\భాషా ఎంచుకోండి </p>
+</td>
+<td>
+<select name="language" id="language" required onchange="selecting()">
+<option value =" "> SELECT LANGUAGE</option>
+<option value ="telugu">తెలుగు</option>
+<option value="english">ENGLISH</option>
+</select>
+</td>
+</tr>
+
+<tr>
+<td>
+ State:<select name="state"  id="state" required >
+ 
+</select>
+</td>
+<td>Area(acres):
+<input type=text name="Area"></td>
+</tr>
+<tr>
+
+ <td>
+ Season:<select name="season" name=season id="season" required>
+ 
+</select>
+ </td>
+ <td>
+ Crop:<select name="crop" name=crop id="crop" required>
+ </select>
+ </td>
+</tr>
+ <tr>
+    <td><input type="Submit" value="Submit" align="center"></td>
+	<td><a href="dataentry_divider1.html"><input type="button"  name="help" value="Help/సహాయం"></a></td>
+  </tr>
+</table>
+
+</form>
+
+</body>
+</head>
+</html>
