@@ -1,0 +1,9 @@
+<tr><td>Type of Crop<select name="tcrop" name=tcrop id="tcrop" required>
+ 
+</select>
+ </td>
+ <td>Type of Soil<select name="soil" name=soil id="soil" required>
+ 
+</select>
+ </td>
+ </tr>

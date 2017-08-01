@@ -147,14 +147,19 @@
           
   <div class="myheader"> 
  <a href="support1.html"> <input type="button"  name="upload" value="GET SUPPORT" class="btn btn-primary" style="width:200px"> </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <!--  <a href="forgot_password.php"> Forget Password?</a> -->
 
 
  
 
  <a href="question.php"> <input type="button"  name="question" value="ASK QUESTION" class="btn btn-primary" style="width:180px"> </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  <br>
+ <a href="faq.html"> <input type="button"  name="question" value="FAQ" class="btn btn-primary" style="width:180px"> </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="weather.html"> <input type="button"  name="question" value="Weather" class="btn btn-primary" style="width:180px"> </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
 
 </form>
